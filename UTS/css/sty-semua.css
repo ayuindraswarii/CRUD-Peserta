@@ -1,0 +1,27 @@
+a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+button{
+	padding: 10px;
+	text-align: center;
+	border-radius: 6px;
+	border:none;
+	margin: 10px;
+	width: 30%;
+}
+
+button.kmbl{
+	background-color: #888888;
+}
+
+button.tmbh{
+	background-color: #4CAF50;
+	color: #ffffff;
+}
+
+input.smpn{
+	background-color: #4CAF50;
+	color: #ffffff;
+}
